@@ -4,7 +4,7 @@
   "description": "The blox fruits stock",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#444444",
+  "background_color": "#e4e4e4",
   "theme_color": "#000000",
   "icons": [
     {
