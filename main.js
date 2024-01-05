@@ -32,7 +32,7 @@ const fetchDataAndRender = () => {
             } catch (error) {
                 console.error(error);
             } finally {
-                setTimeout(fetchDataAndRender, 1000);
+                setTimeout(fetchDataAndRender, 100);
             }
         });
 };
